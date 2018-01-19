@@ -14,6 +14,8 @@ The order is as follows:
 
 -Save the sorted records to a new separate .dat file.
 
+Ensure the .dat file is placed in the default location, which is the same place where your .cpp file is located at.
+
 
 Ensure you know:
 

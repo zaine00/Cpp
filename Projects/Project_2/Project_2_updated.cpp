@@ -9,7 +9,7 @@ int main()
     cin >> num;
     while (num<1||num>20)
     {
-        cout << "That is not a number between 1-20." << endl;
+        cout << "That is not a number between 1-20. " << endl;
         cout << "Please enter a number between 1-20: ";
         cin >> num;
     }
